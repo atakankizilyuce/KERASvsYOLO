@@ -18,3 +18,9 @@ After saving the information, start the program by running the main.py file.<br>
 Click "File" in the top left and select "Open from Directory". (only photos should be in the folder you choose)
 Click any or both of the Keras, YOLO buttons at the bottom and click the ">>>" sign.<br>
 You can see the results on the screen. Green results represent Keras, yellow results YOLO.<br>
+
+
+
+https://user-images.githubusercontent.com/99099880/197074423-12205a65-6c5e-464d-97c5-6c127defa2bb.mp4
+
+
